@@ -20,10 +20,6 @@ MediMArt is a web application that allows users to browse and purchase medical s
 - Tailwind CSS: Utility-first CSS framework for styling
 - Firebase: Backend-as-a-Service for authentication and database
 
-## Getting Started
-
-To get a local copy up and running, follow these steps.
-
 ### Prerequisites
 
 Make sure you have the following installed on your local machine:
