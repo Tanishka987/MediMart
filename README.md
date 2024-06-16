@@ -1,8 +1,32 @@
-# React + Vite
+# MediMart
+MediMArt is a web application that allows users to browse and purchase medical supplies and medications online. The project is built using React for the frontend and Vite as the build tool to ensure fast and efficient development.
+## Features
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- User authentication (sign up, login, logout)
+- Browse medical products by category
+- Search for products
+- View detailed product information
+- Add products to the shopping cart
+- Checkout process
+- Order history and tracking
+- Responsive design for mobile and desktop
 
-Currently, two official plugins are available:
+## Technologies Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React: JavaScript library for building user interfaces
+- Vite: Next-generation frontend tooling
+- React Router: Declarative routing for React applications
+- Axios: Promise-based HTTP client for making API requests
+- Tailwind CSS: Utility-first CSS framework for styling
+- Firebase: Backend-as-a-Service for authentication and database
+
+## Getting Started
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+Make sure you have the following installed on your local machine:
+
+- Node.js (v14.x or later)
+- npm (v6.x or later) or yarn (v1.x or later)
