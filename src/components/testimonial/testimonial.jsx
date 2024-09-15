@@ -27,7 +27,7 @@ function Testimonial() {
                 <img
                   alt="testimonial"
                   className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 border-gray-200 bg-gray-100"
-                  src="https://ecommerce-sk.vercel.app/img/kamal.png"
+                  src="https://cdn-icons-png.flaticon.com/128/2202/2202112.png"
                 />
                 <p
                   style={{ color: mode === "dark" ? "white" : "" }}
@@ -43,7 +43,7 @@ function Testimonial() {
                   style={{ color: mode === "dark" ? "#ff4162" : "" }}
                   className="text-gray-900 font-medium title-font tracking-wider text-sm uppercase"
                 >
-                  Kamal Nayan Upadhyay
+                  John
                 </h2>
                 <p
                   style={{ color: mode === "dark" ? "white" : "" }}
@@ -75,7 +75,7 @@ function Testimonial() {
                   style={{ color: mode === "dark" ? "#ff4162" : "" }}
                   className="text-gray-900 font-medium title-font tracking-wider text-sm uppercase"
                 >
-                  React Js
+                  Tanishka Petwal
                 </h2>
                 <p
                   style={{ color: mode === "dark" ? "white" : "" }}
